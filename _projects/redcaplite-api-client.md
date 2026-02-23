@@ -1,6 +1,6 @@
 ---
 title: REDCapLite Open-Source API Client
-summary: Built and maintain an independent open-source REDCap API client package for streamlined project integrations.
+summary: Built and maintained an independent open-source REDCap API client package for streamlined project integrations.
 order: 4
 tools:
   - REDCap API
