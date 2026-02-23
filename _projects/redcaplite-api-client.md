@@ -4,9 +4,8 @@ summary: Built and maintained an independent open-source REDCap API client packa
 order: 4
 tools:
   - REDCap API
-  - Ruby
-  - Gem Packaging
-  - REST
+  - Python
+  - Python Packaging
 home_metrics:
   - Public open-source repository for reusable REDCap integration patterns
   - Focused API client abstraction for independent project use
