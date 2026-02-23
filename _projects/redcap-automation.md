@@ -38,3 +38,4 @@ Implemented multiple REDCap-integrated services to support clinical research ope
 - Improved operational efficiency for multi-study teams through standardized workflows
 - Increased consistency of participant communication workflows
 - Strengthened integration between research data capture and clinical source systems
+
