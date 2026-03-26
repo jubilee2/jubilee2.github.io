@@ -4,14 +4,10 @@ summary: Built the 2.x RedcapLite command-line experience with profile-based acc
 order: 5
 tools:
   - Python
-  - argparse
-  - pandas
-  - requests
-  - PyYAML
   - keyring
   - REDCap API
 home_metrics:
-  - Command-first UX with rcl <command> <profile> patterns
+  - Command-first UX with rcl &lt;command&gt; &lt;profile&gt; patterns
   - Profile setup with API validation and secure credential handling
   - Cross-project metadata comparison and optional sync
 ---
@@ -36,10 +32,6 @@ REDCap metadata tasks are often repetitive and error-prone, especially across mu
 ## Tech Stack
 
 - Python
-- argparse
-- pandas
-- requests
-- PyYAML
 - keyring
 - REDCap API
 
