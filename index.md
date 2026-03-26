@@ -46,7 +46,7 @@ permalink: /
 
 ## Featured Projects
 
-{% assign featured_projects = site.projects | sort: "order" | slice: 0, 4 %}
+{% assign featured_projects = site.projects | sort: "order" | slice: 0, 5 %}
 <div class="home-card-grid">
   {% for project in featured_projects %}
   <article class="home-card home-card--project">
